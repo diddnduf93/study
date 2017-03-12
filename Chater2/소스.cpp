@@ -40,6 +40,7 @@ void Car::showCarState()
 	cout << "소유자 ID : " << gamerID << endl;
 	cout << "연료량 : " << fuelGauge << endl;
 	cout << "현재속도 : " << curSpeed << endl << endl;
+	cout << "케케" << endl;
 
 }
 
